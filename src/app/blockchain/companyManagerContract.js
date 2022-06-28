@@ -1,0 +1,2 @@
+const companyManagerContract = '0x596764C97404557Eaa849D0B2d126574a7bc9E27';
+export default companyManagerContract;
